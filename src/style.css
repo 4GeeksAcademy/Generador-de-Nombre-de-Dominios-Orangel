@@ -1,1 +1,8 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+h1 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: darkblue;
+}
+h2 {
+  color: lightseagreen;
+}
